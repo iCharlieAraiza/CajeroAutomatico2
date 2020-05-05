@@ -1,0 +1,5 @@
+1:aeiou:Juan Pérez
+2:uoiea:Luisa González
+3:abcde:Karla Contreras
+4:edcba:Alonso Cortes
+5:vwxyz:Sara López
